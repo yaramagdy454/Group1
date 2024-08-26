@@ -1,0 +1,8 @@
+prefix=/home/mohamed/Task/install
+
+Name: turtle_battle
+Description: Description of turtle_battle
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

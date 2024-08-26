@@ -1,0 +1,2 @@
+turtle_battle
+-DCATKIN_DEVEL_PREFIX=/home/mohamed/Task/devel -DCMAKE_INSTALL_PREFIX=/home/mohamed/Task/install -G Unix Makefiles
