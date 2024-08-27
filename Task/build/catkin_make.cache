@@ -1,0 +1,2 @@
+my_player
+-DCATKIN_DEVEL_PREFIX=/home/ahmedsaber/Task/devel -DCMAKE_INSTALL_PREFIX=/home/ahmedsaber/Task/install -G Unix Makefiles

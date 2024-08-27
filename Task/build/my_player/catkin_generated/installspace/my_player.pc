@@ -1,0 +1,8 @@
+prefix=/home/ahmedsaber/Task/install
+
+Name: my_player
+Description: Description of my_player
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
