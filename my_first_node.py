@@ -9,18 +9,14 @@ class TurtleAttackGame:
     def __init__(self):
         rospy.init_node('attacking', anonymous=True)
         
-        # Attack parameters
         self.attack_radius = 0.02  # 2 cm
         self.attack_duration = 1.0  # 1 second
         self.max_attacks = 10
         
-        # Initialize attacks count for each turtle
         self.attacks = {'turtle1': self.max_attacks, 'turtle2': self.max_attacks, 'turtle3': self.max_attacks}
-        
-        # Initialize turtles' poses
         self.turtle_poses = {'turtle1': None, 'turtle2': None, 'turtle3': None}
         
-        # Publishers for turtles' velocity (if needed to move them during the game)
+        
         self.velocity_publishers = {
             'turtle1': rospy.Publisher('/turtle1/cmd_vel', Twist, queue_size=10),
             'turtle2': rospy.Publisher('/turtle2/cmd_vel', Twist, queue_size=10),
@@ -57,8 +53,6 @@ class TurtleAttackGame:
             if all(attacks == 0 for attacks in self.attacks.values()):
                 rospy.loginfo("Game over! All turtles have no attacks left.")
                 break
-
-            # Attack sequence
             self.attack('turtle1', 'turtle2')
             self.attack('turtle2', 'turtle3')
             self.attack('turtle3', 'turtle1')
