@@ -1,0 +1,8 @@
+prefix=/home/ahmedsaber/gos_ws/install
+
+Name: my_turtlebot3_node
+Description: Description of my_turtlebot3_node
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
