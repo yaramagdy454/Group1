@@ -1,0 +1,25 @@
+int main()
+{
+    gpio_init();
+    adc_init();
+    timer_init();
+    ext_interrupt_init();
+    spi_init();
+
+    sei();
+
+    while (1)
+    {
+
+        uint16_t pot_value = adc_read(0);
+
+        uint8_t motor_speed = (pot_value * 255) / 1023;
+        set_motor_speed(motor_speed);
+
+        uint8_t current_rpm = (encoder_count * 60) / 100; 
+        encoder_count = 0;                                
+
+        spi_transfer(current_rpm);
+        _delay_ms(100);
+    }
+}

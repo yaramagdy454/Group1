@@ -1,0 +1,4 @@
+void set_motor_speed(uint8_t speed)
+{
+    OCR0A = speed;
+}

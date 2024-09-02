@@ -1,0 +1,12 @@
+volatile uint16_t encoder_count = 0;
+void ext_interrupt_init()
+{
+    EIMSK |= (1 << INT0);
+    EICRA |= (1 << ISC010);
+    sei();
+}
+
+ISR(INT0_vect)
+{
+    encoder_count++;
+}

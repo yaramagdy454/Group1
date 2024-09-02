@@ -1,0 +1,6 @@
+void timer_init()
+{
+    TCCR0A = (1 << WGM00) | (1 << WGM01) | (1 << COM01); 
+    TCCR0B = (1 << CS00);                               
+    OCR0A = 0;                                           
+}

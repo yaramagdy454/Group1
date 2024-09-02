@@ -1,0 +1,9 @@
+void gpio_init()
+{
+    
+    DDRB |= (1 << DDD6); 
+   
+    DDRC &= ~(1 << DDC0);
+   
+    DDRD &= ~(1 << DDD0); 
+}
