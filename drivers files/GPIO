@@ -1,7 +1,7 @@
 void gpio_init()
 {
     
-    DDRB |= (1 << DDD6); 
+    DDRB |= (1 << DDB0); 
    
     DDRC &= ~(1 << DDC0);
    
