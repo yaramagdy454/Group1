@@ -1,0 +1,171 @@
+Removed Pin From Net: NetName=+5 Pin=J2-2
+Added Component: Designator=C4(CAPPRD500W50D500H1100)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEU-FS1J270B/Panasonic%20Electronic%20Components/view-part/3211392/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEU-FS1J270B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEU-FS1J270B/Panasonic%20Electronic%20Components/view-part/3211392/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPPRD500W50D500H1100)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEU-FS1J270B/Panasonic%20Electronic%20Components/view-part/3211392/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEU-FS1J270B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEU-FS1J270B/Panasonic%20Electronic%20Components/view-part/3211392/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPPRD500W50D500H1100)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEU-FS1J270B/Panasonic%20Electronic%20Components/view-part/3211392/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEU-FS1J270B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEU-FS1J270B/Panasonic%20Electronic%20Components/view-part/3211392/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPPRD500W50D500H1100)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEU-FS1J270B/Panasonic%20Electronic%20Components/view-part/3211392/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEU-FS1J270B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEU-FS1J270B/Panasonic%20Electronic%20Components/view-part/3211392/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPPRD500W50D500H1100)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEU-FS1J270B/Panasonic%20Electronic%20Components/view-part/3211392/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEU-FS1J270B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEU-FS1J270B/Panasonic%20Electronic%20Components/view-part/3211392/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(CUI_TB006-508-03BE)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TB006-508-03BE/CUI+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cuidevices.com/product/interconnect/connectors/terminal-blocks/tb006-508-series?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TB006-508-03BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TB006-508-03BE/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TB006-508-03BE/CUI+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(CUI_TB006-508-03BE)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TB006-508-03BE/CUI+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cuidevices.com/product/interconnect/connectors/terminal-blocks/tb006-508-series?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TB006-508-03BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TB006-508-03BE/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TB006-508-03BE/CUI+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(61400416021)
+Add component (AddParameter): Name = "Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "15.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Horizontal, Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "21041530"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "USB Standard"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "14.4mm"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(TO254P1054X470X2600-3)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM7805CT/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM7805CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LM7805CT/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM7805CT/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(TO254P470X1016X1879-3P)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM7809ACT/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM7809ACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LM7809ACT/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM7809ACT/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C4-N
+Added Pin To Net: NetName=GND Pin=C5-N
+Added Pin To Net: NetName=GND Pin=C6-N
+Added Pin To Net: NetName=GND Pin=C7-N
+Added Pin To Net: NetName=GND Pin=C8-N
+Added Pin To Net: NetName=+5 Pin=C8-P
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=+5 Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-Shell
+Added Pin To Net: NetName=GND Pin=J5-Shell
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=+5 Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=+12 Pin=C6-P
+Added Pin To Net: NetName=+12 Pin=C7-P
+Added Pin To Net: NetName=+12 Pin=J2-2
+Added Pin To Net: NetName=+12 Pin=Q1-1
+Added Pin To Net: NetName=+12 Pin=U2-1
+Added Net: Name=+12
+Added Pin To Net: NetName=8.4V Pin=C4-P
+Added Pin To Net: NetName=8.4V Pin=C5-P
+Added Pin To Net: NetName=8.4V Pin=J3-2
+Added Pin To Net: NetName=8.4V Pin=J4-2
+Added Pin To Net: NetName=8.4V Pin=U2-3
+Added Net: Name=8.4V
+Added Pin To Net: NetName=D+ Pin=J5-3
+Added Pin To Net: NetName=D+ Pin=U1-8
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=J5-2
+Added Pin To Net: NetName=D- Pin=U1-7
+Added Net: Name=D-
+Added Pin To Net: NetName=Pwm1 Pin=J3-1
+Added Pin To Net: NetName=Pwm1 Pin=U1-5
+Added Net: Name=Pwm1
+Added Pin To Net: NetName=Pwm2 Pin=J4-1
+Added Pin To Net: NetName=Pwm2 Pin=U1-6
+Added Net: Name=Pwm2
+Add Differential Pair: Number of nets in differential pair D+ is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair D- is 1 instead of 2
+Added Member To Class: ClassName=Sheet1 Member=Component C4 EEUFS1J270B
+Added Member To Class: ClassName=Sheet1 Member=Component C5 EEUFS1J270B
+Added Member To Class: ClassName=Sheet1 Member=Component C6 EEUFS1J270B
+Added Member To Class: ClassName=Sheet1 Member=Component C7 EEUFS1J270B
+Added Member To Class: ClassName=Sheet1 Member=Component C8 EEUFS1J270B
+Added Member To Class: ClassName=Sheet1 Member=Component J3 TB006-508-03BE
+Added Member To Class: ClassName=Sheet1 Member=Component J4 TB006-508-03BE
+Added Member To Class: ClassName=Sheet1 Member=Component J5 61400416021
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 LM7805CT/NOPB
+Added Member To Class: ClassName=Sheet1 Member=Component U2 LM7809ACT
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4

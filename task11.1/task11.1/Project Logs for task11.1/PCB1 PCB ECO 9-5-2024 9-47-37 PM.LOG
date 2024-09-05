@@ -1,0 +1,47 @@
+Add Component: Footprint Not Found TE_282837-2
+Add Component: Footprint Not Found DIP794W45P254L1969H508Q14
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin piston1-1
+Add Pin To Net: Unknown Pin: Pin piston1-2
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-11
+Add Differential Pair: Number of nets in differential pair D+ is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair D- is 1 instead of 2
+Add Class Member: Failed to add class member : Component D1 Light-Emitting Diode
+Add Class Member: Failed to add class member : Component D2 Light-Emitting Diode
+Add Class Member: Failed to add class member : Component D3 Diode
+Add Class Member: Failed to add class member : Component D4 Zener Diode
+Add Class Member: Failed to add class member : Component piston1 282837-2
+Add Class Member: Failed to add class member : Component Q2 Bipolar NPN 3 Pins Transistor Gummel-Poon Model
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R2 Resistor
+Add Class Member: Failed to add class member : Component R3 Resistor
+Add Class Member: Failed to add class member : Component R4 Resistor
+Add Class Member: Failed to add class member : Component R5 Resistor
+Add Class Member: Failed to add class member : Component R6 Resistor
+Add Class Member: Failed to add class member : Component U3 LM324NE3

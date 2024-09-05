@@ -1,0 +1,49 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Component: Designator=C1(CAPPRD500W50D500H1100)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEU-FS1J270B/Panasonic%20Electronic%20Components/view-part/3211392/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEU-FS1J270B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEU-FS1J270B/Panasonic%20Electronic%20Components/view-part/3211392/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPPRD500W50D500H1100)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEU-FS1J270B/Panasonic%20Electronic%20Components/view-part/3211392/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEU-FS1J270B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEU-FS1J270B/Panasonic%20Electronic%20Components/view-part/3211392/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPPRD500W50D500H1100)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEU-FS1J270B/Panasonic%20Electronic%20Components/view-part/3211392/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEU-FS1J270B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEU-FS1J270B/Panasonic%20Electronic%20Components/view-part/3211392/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C2-P
+Added Pin To Net: NetName=+5 Pin=U1-18
+Added Net: Name=+5
+Added Pin To Net: NetName=3.3V Pin=C1-P
+Added Pin To Net: NetName=3.3V Pin=C3-P
+Added Pin To Net: NetName=3.3V Pin=U1-20
+Added Pin To Net: NetName=3.3V Pin=U1-38
+Added Net: Name=3.3V
+Added Pin To Net: NetName=GND Pin=C1-N
+Added Pin To Net: NetName=GND Pin=C2-N
+Added Pin To Net: NetName=GND Pin=C3-N
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-39
+Added Pin To Net: NetName=GND Pin=U1-40
+Added Net: Name=GND
+Added Member To Class: ClassName=Sheet1 Member=Component C1 EEUFS1J270B
+Added Member To Class: ClassName=Sheet1 Member=Component C2 EEUFS1J270B
+Added Member To Class: ClassName=Sheet1 Member=Component C3 EEUFS1J270B
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
